@@ -59,7 +59,7 @@ header div:hover{
 
 header img {
   width: 100%;
-  border: 50%;
+  border-radius: 50%;
 }
 
 section ul {
